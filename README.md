@@ -7,5 +7,5 @@
 1. Clone the repository
 2. Open terminal inside the project folder
 3. Run:
-   node bigbang.js
+   bigbang.js
 4. The file output.json will be generated in the same folder.
